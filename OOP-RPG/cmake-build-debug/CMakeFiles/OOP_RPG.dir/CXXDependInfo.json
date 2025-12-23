@@ -1,0 +1,112 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "GNU",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"database-info" : null,
+	"dir-cur-bld" : "C:/Users/petru/Desktop/2024-2025/OOP-RPG/cmake-build-debug",
+	"dir-cur-src" : "C:/Users/petru/Desktop/2024-2025/OOP-RPG",
+	"dir-top-bld" : "C:/Users/petru/Desktop/2024-2025/OOP-RPG/cmake-build-debug",
+	"dir-top-src" : "C:/Users/petru/Desktop/2024-2025/OOP-RPG",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : [],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "C:/Users/petru/Desktop/2024-2025/OOP-RPG/cmake-build-debug/CMakeFiles/OOP_RPG.dir",
+	"sources" : 
+	{
+		"CMakeFiles/OOP_RPG.dir/combat/CombatSystem.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "C:/Users/petru/Desktop/2024-2025/OOP-RPG/combat/CombatSystem.cpp"
+		},
+		"CMakeFiles/OOP_RPG.dir/core/Game.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "C:/Users/petru/Desktop/2024-2025/OOP-RPG/core/Game.cpp"
+		},
+		"CMakeFiles/OOP_RPG.dir/core/SaveSystem.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "C:/Users/petru/Desktop/2024-2025/OOP-RPG/core/SaveSystem.cpp"
+		},
+		"CMakeFiles/OOP_RPG.dir/core/World.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "C:/Users/petru/Desktop/2024-2025/OOP-RPG/core/World.cpp"
+		},
+		"CMakeFiles/OOP_RPG.dir/entities/Boss.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "C:/Users/petru/Desktop/2024-2025/OOP-RPG/entities/Boss.cpp"
+		},
+		"CMakeFiles/OOP_RPG.dir/entities/Enemy.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "C:/Users/petru/Desktop/2024-2025/OOP-RPG/entities/Enemy.cpp"
+		},
+		"CMakeFiles/OOP_RPG.dir/entities/Entity.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "C:/Users/petru/Desktop/2024-2025/OOP-RPG/entities/Entity.cpp"
+		},
+		"CMakeFiles/OOP_RPG.dir/entities/NPC.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "C:/Users/petru/Desktop/2024-2025/OOP-RPG/entities/NPC.cpp"
+		},
+		"CMakeFiles/OOP_RPG.dir/entities/Player.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "C:/Users/petru/Desktop/2024-2025/OOP-RPG/entities/Player.cpp"
+		},
+		"CMakeFiles/OOP_RPG.dir/items/Armor.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "C:/Users/petru/Desktop/2024-2025/OOP-RPG/items/Armor.cpp"
+		},
+		"CMakeFiles/OOP_RPG.dir/items/Consumable.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "C:/Users/petru/Desktop/2024-2025/OOP-RPG/items/Consumable.cpp"
+		},
+		"CMakeFiles/OOP_RPG.dir/items/Weapon.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "C:/Users/petru/Desktop/2024-2025/OOP-RPG/items/Weapon.cpp"
+		},
+		"CMakeFiles/OOP_RPG.dir/main.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "C:/Users/petru/Desktop/2024-2025/OOP-RPG/main.cpp"
+		},
+		"CMakeFiles/OOP_RPG.dir/rendering/ConsoleRenderer.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "C:/Users/petru/Desktop/2024-2025/OOP-RPG/rendering/ConsoleRenderer.cpp"
+		},
+		"CMakeFiles/OOP_RPG.dir/rendering/TileRenderer.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "C:/Users/petru/Desktop/2024-2025/OOP-RPG/rendering/TileRenderer.cpp"
+		},
+		"CMakeFiles/OOP_RPG.dir/systems/DialogueSystem.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "C:/Users/petru/Desktop/2024-2025/OOP-RPG/systems/DialogueSystem.cpp"
+		},
+		"CMakeFiles/OOP_RPG.dir/systems/EventSystem.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "C:/Users/petru/Desktop/2024-2025/OOP-RPG/systems/EventSystem.cpp"
+		},
+		"CMakeFiles/OOP_RPG.dir/systems/InputSystem.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "C:/Users/petru/Desktop/2024-2025/OOP-RPG/systems/InputSystem.cpp"
+		}
+	}
+}

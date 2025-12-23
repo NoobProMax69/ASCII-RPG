@@ -1,0 +1,3 @@
+C:/Users/petru/Desktop/2024-2025/OOP-RPG/cmake-build-debug/CMakeFiles/OOP_RPG.dir
+C:/Users/petru/Desktop/2024-2025/OOP-RPG/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/petru/Desktop/2024-2025/OOP-RPG/cmake-build-debug/CMakeFiles/rebuild_cache.dir
