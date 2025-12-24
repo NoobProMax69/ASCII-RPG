@@ -1,8 +1,9 @@
 #include "Consumable.h"
-#include "Player.h"
+#include "../entities/Player.h"
 
 Consumable::Consumable(const std::string& name, int healAmount)
     : name(name), healAmount(healAmount) {}
+
 
 std::string Consumable::getName() const {
     return name;

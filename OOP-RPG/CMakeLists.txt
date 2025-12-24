@@ -3,8 +3,19 @@ project(OOP_RPG)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(OOP_RPG main.cpp
-        core/game.h
+set(SFML_DIR "C:/Users/petru/Documents/SFML-3.0.2/lib/cmake/SFML")
+
+find_package(SFML CONFIG REQUIRED
+        COMPONENTS
+        Graphics
+        Window
+        System
+        Audio
+)
+
+add_executable(OOP_RPG
+        main.cpp
+        core/Game.h
         core/Game.cpp
         core/GameState.h
         core/World.h
@@ -12,6 +23,8 @@ add_executable(OOP_RPG main.cpp
         core/SaveSystem.h
         core/SaveSystem.cpp
         entities/Entity.h
+        entities/Entity.cpp
+        entities/Stats.h
         entities/Player.h
         entities/Player.cpp
         entities/Enemy.h
@@ -27,6 +40,8 @@ add_executable(OOP_RPG main.cpp
         items/Item.h
         items/Weapon.h
         items/Weapon.cpp
+        items/Armor.h
+        items/Armor.cpp
         items/Consumable.h
         items/Consumable.cpp
         items/Upgrade.h
@@ -37,16 +52,19 @@ add_executable(OOP_RPG main.cpp
         systems/InputSystem.h
         systems/InputSystem.cpp
         systems/EventSystem.h
+        systems/EventSystem.cpp
         systems/DialogueSystem.h
         systems/DialogueSystem.cpp
-        systems/EventSystem.cpp
         rendering/Renderer.h
         rendering/ConsoleRenderer.h
+        rendering/ConsoleRenderer.cpp
         rendering/TileRenderer.h
         rendering/TileRenderer.cpp
-        rendering/ConsoleRenderer.cpp
-        entities/Stats.h
-        entities/Entity.cpp
-        items/Armor.h
-        items/Armor.cpp
+)
+
+target_link_libraries(OOP_RPG
+        SFML::Graphics
+        SFML::Window
+        SFML::System
+        SFML::Audio
 )

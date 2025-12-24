@@ -6,7 +6,7 @@ Boss::Boss(const std::string& name, const Stats& stats)
 void Boss::takeTurn(Entity& target) {
     if (!phaseTwo && stats.hp < stats.maxHP / 2) {
         phaseTwo = true;
-        // Boss enrages
+        // Boss second phase
     }
 
     int damage = stats.attack;

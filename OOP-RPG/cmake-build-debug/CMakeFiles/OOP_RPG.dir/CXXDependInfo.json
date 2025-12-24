@@ -12,7 +12,10 @@
 	"dir-top-src" : "C:/Users/petru/Desktop/2024-2025/OOP-RPG",
 	"exports" : [],
 	"forward-modules-from-target-dirs" : [],
-	"include-dirs" : [],
+	"include-dirs" : 
+	[
+		"C:\\Users\\petru\\Documents\\SFML-3.0.2\\include"
+	],
 	"language" : "CXX",
 	"linked-target-dirs" : [],
 	"module-dir" : "C:/Users/petru/Desktop/2024-2025/OOP-RPG/cmake-build-debug/CMakeFiles/OOP_RPG.dir",

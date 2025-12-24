@@ -1,4 +1,17 @@
 "C:\Program Files\JetBrains\Clion 25.1.2\CLion 2025.1.2\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/Clion 25.1.2/CLion 2025.1.2/bin/ninja/win/x64/ninja.exe" -G Ninja -S C:\Users\petru\Desktop\2024-2025\OOP-RPG -B C:\Users\petru\Desktop\2024-2025\OOP-RPG\cmake-build-debug
--- Configuring done (0.3s)
--- Generating done (0.1s)
+-- The C compiler identification is GNU 14.2.0
+-- The CXX compiler identification is GNU 14.2.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: C:/Users/petru/mingw64/bin/gcc.exe - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: C:/Users/petru/mingw64/bin/c++.exe - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found SFML 3.0.2 in C:/Users/petru/Documents/SFML-3.0.2/lib/cmake/SFML
+-- Configuring done (10.3s)
+-- Generating done (0.3s)
 -- Build files have been written to: C:/Users/petru/Desktop/2024-2025/OOP-RPG/cmake-build-debug

@@ -7,7 +7,7 @@ private:
     int healAmount;
 
 public:
-    Consumable(std::string& name, int healAmount);
+    Consumable(const std::string& name, int healAmount);
 
     std::string getName() const override;
     void use(Player& player) override;

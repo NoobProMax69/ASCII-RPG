@@ -1,0 +1,5 @@
+# 0 "C:/Users/petru/Desktop/2024-2025/OOP-RPG/entities/NPC.cpp"
+# 1 "C:\\Users\\petru\\Desktop\\2024-2025\\OOP-RPG\\cmake-build-debug//"
+# 0 "<built-in>"
+# 0 "<command-line>"
+# 1 "C:/Users/petru/Desktop/2024-2025/OOP-RPG/entities/NPC.cpp"

@@ -53,6 +53,7 @@ build CMakeFiles/OOP_RPG.dir/main.cpp.obj.ddi: CXX_SCAN__OOP_RPG_Debug C$:/Users
   DEP_FILE = CMakeFiles\OOP_RPG.dir\main.cpp.obj.ddi.d
   DYNDEP_INTERMEDIATE_FILE = CMakeFiles\OOP_RPG.dir\main.cpp.obj.ddi
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  INCLUDES = -isystem C:/Users/petru/Documents/SFML-3.0.2/include
   OBJ_FILE = CMakeFiles\OOP_RPG.dir\main.cpp.obj
   PREPROCESSED_OUTPUT_FILE = CMakeFiles\OOP_RPG.dir\main.cpp.obj.ddi.i
 
@@ -60,14 +61,18 @@ build CMakeFiles/OOP_RPG.dir/main.cpp.obj: CXX_COMPILER__OOP_RPG_scanned_Debug C
   DEP_FILE = CMakeFiles\OOP_RPG.dir\main.cpp.obj.d
   DYNDEP_MODULE_MAP_FILE = CMakeFiles\OOP_RPG.dir\main.cpp.obj.modmap
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  INCLUDES = -isystem C:/Users/petru/Documents/SFML-3.0.2/include
   OBJECT_DIR = CMakeFiles\OOP_RPG.dir
   OBJECT_FILE_DIR = CMakeFiles\OOP_RPG.dir
+  TARGET_COMPILE_PDB = CMakeFiles\OOP_RPG.dir\
+  TARGET_PDB = OOP_RPG.pdb
   dyndep = CMakeFiles/OOP_RPG.dir/CXX.dd
 
 build CMakeFiles/OOP_RPG.dir/core/Game.cpp.obj.ddi: CXX_SCAN__OOP_RPG_Debug C$:/Users/petru/Desktop/2024-2025/OOP-RPG/core/Game.cpp || cmake_object_order_depends_target_OOP_RPG
   DEP_FILE = CMakeFiles\OOP_RPG.dir\core\Game.cpp.obj.ddi.d
   DYNDEP_INTERMEDIATE_FILE = CMakeFiles\OOP_RPG.dir\core\Game.cpp.obj.ddi
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  INCLUDES = -isystem C:/Users/petru/Documents/SFML-3.0.2/include
   OBJ_FILE = CMakeFiles\OOP_RPG.dir\core\Game.cpp.obj
   PREPROCESSED_OUTPUT_FILE = CMakeFiles\OOP_RPG.dir\core\Game.cpp.obj.ddi.i
 
@@ -75,14 +80,18 @@ build CMakeFiles/OOP_RPG.dir/core/Game.cpp.obj: CXX_COMPILER__OOP_RPG_scanned_De
   DEP_FILE = CMakeFiles\OOP_RPG.dir\core\Game.cpp.obj.d
   DYNDEP_MODULE_MAP_FILE = CMakeFiles\OOP_RPG.dir\core\Game.cpp.obj.modmap
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  INCLUDES = -isystem C:/Users/petru/Documents/SFML-3.0.2/include
   OBJECT_DIR = CMakeFiles\OOP_RPG.dir
   OBJECT_FILE_DIR = CMakeFiles\OOP_RPG.dir\core
+  TARGET_COMPILE_PDB = CMakeFiles\OOP_RPG.dir\
+  TARGET_PDB = OOP_RPG.pdb
   dyndep = CMakeFiles/OOP_RPG.dir/CXX.dd
 
 build CMakeFiles/OOP_RPG.dir/core/World.cpp.obj.ddi: CXX_SCAN__OOP_RPG_Debug C$:/Users/petru/Desktop/2024-2025/OOP-RPG/core/World.cpp || cmake_object_order_depends_target_OOP_RPG
   DEP_FILE = CMakeFiles\OOP_RPG.dir\core\World.cpp.obj.ddi.d
   DYNDEP_INTERMEDIATE_FILE = CMakeFiles\OOP_RPG.dir\core\World.cpp.obj.ddi
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  INCLUDES = -isystem C:/Users/petru/Documents/SFML-3.0.2/include
   OBJ_FILE = CMakeFiles\OOP_RPG.dir\core\World.cpp.obj
   PREPROCESSED_OUTPUT_FILE = CMakeFiles\OOP_RPG.dir\core\World.cpp.obj.ddi.i
 
@@ -90,14 +99,18 @@ build CMakeFiles/OOP_RPG.dir/core/World.cpp.obj: CXX_COMPILER__OOP_RPG_scanned_D
   DEP_FILE = CMakeFiles\OOP_RPG.dir\core\World.cpp.obj.d
   DYNDEP_MODULE_MAP_FILE = CMakeFiles\OOP_RPG.dir\core\World.cpp.obj.modmap
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  INCLUDES = -isystem C:/Users/petru/Documents/SFML-3.0.2/include
   OBJECT_DIR = CMakeFiles\OOP_RPG.dir
   OBJECT_FILE_DIR = CMakeFiles\OOP_RPG.dir\core
+  TARGET_COMPILE_PDB = CMakeFiles\OOP_RPG.dir\
+  TARGET_PDB = OOP_RPG.pdb
   dyndep = CMakeFiles/OOP_RPG.dir/CXX.dd
 
 build CMakeFiles/OOP_RPG.dir/core/SaveSystem.cpp.obj.ddi: CXX_SCAN__OOP_RPG_Debug C$:/Users/petru/Desktop/2024-2025/OOP-RPG/core/SaveSystem.cpp || cmake_object_order_depends_target_OOP_RPG
   DEP_FILE = CMakeFiles\OOP_RPG.dir\core\SaveSystem.cpp.obj.ddi.d
   DYNDEP_INTERMEDIATE_FILE = CMakeFiles\OOP_RPG.dir\core\SaveSystem.cpp.obj.ddi
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  INCLUDES = -isystem C:/Users/petru/Documents/SFML-3.0.2/include
   OBJ_FILE = CMakeFiles\OOP_RPG.dir\core\SaveSystem.cpp.obj
   PREPROCESSED_OUTPUT_FILE = CMakeFiles\OOP_RPG.dir\core\SaveSystem.cpp.obj.ddi.i
 
@@ -105,194 +118,18 @@ build CMakeFiles/OOP_RPG.dir/core/SaveSystem.cpp.obj: CXX_COMPILER__OOP_RPG_scan
   DEP_FILE = CMakeFiles\OOP_RPG.dir\core\SaveSystem.cpp.obj.d
   DYNDEP_MODULE_MAP_FILE = CMakeFiles\OOP_RPG.dir\core\SaveSystem.cpp.obj.modmap
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  INCLUDES = -isystem C:/Users/petru/Documents/SFML-3.0.2/include
   OBJECT_DIR = CMakeFiles\OOP_RPG.dir
   OBJECT_FILE_DIR = CMakeFiles\OOP_RPG.dir\core
-  dyndep = CMakeFiles/OOP_RPG.dir/CXX.dd
-
-build CMakeFiles/OOP_RPG.dir/entities/Player.cpp.obj.ddi: CXX_SCAN__OOP_RPG_Debug C$:/Users/petru/Desktop/2024-2025/OOP-RPG/entities/Player.cpp || cmake_object_order_depends_target_OOP_RPG
-  DEP_FILE = CMakeFiles\OOP_RPG.dir\entities\Player.cpp.obj.ddi.d
-  DYNDEP_INTERMEDIATE_FILE = CMakeFiles\OOP_RPG.dir\entities\Player.cpp.obj.ddi
-  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  OBJ_FILE = CMakeFiles\OOP_RPG.dir\entities\Player.cpp.obj
-  PREPROCESSED_OUTPUT_FILE = CMakeFiles\OOP_RPG.dir\entities\Player.cpp.obj.ddi.i
-
-build CMakeFiles/OOP_RPG.dir/entities/Player.cpp.obj: CXX_COMPILER__OOP_RPG_scanned_Debug C$:/Users/petru/Desktop/2024-2025/OOP-RPG/entities/Player.cpp | CMakeFiles/OOP_RPG.dir/entities/Player.cpp.obj.modmap || cmake_object_order_depends_target_OOP_RPG CMakeFiles/OOP_RPG.dir/CXX.dd
-  DEP_FILE = CMakeFiles\OOP_RPG.dir\entities\Player.cpp.obj.d
-  DYNDEP_MODULE_MAP_FILE = CMakeFiles\OOP_RPG.dir\entities\Player.cpp.obj.modmap
-  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\OOP_RPG.dir
-  OBJECT_FILE_DIR = CMakeFiles\OOP_RPG.dir\entities
-  dyndep = CMakeFiles/OOP_RPG.dir/CXX.dd
-
-build CMakeFiles/OOP_RPG.dir/entities/Enemy.cpp.obj.ddi: CXX_SCAN__OOP_RPG_Debug C$:/Users/petru/Desktop/2024-2025/OOP-RPG/entities/Enemy.cpp || cmake_object_order_depends_target_OOP_RPG
-  DEP_FILE = CMakeFiles\OOP_RPG.dir\entities\Enemy.cpp.obj.ddi.d
-  DYNDEP_INTERMEDIATE_FILE = CMakeFiles\OOP_RPG.dir\entities\Enemy.cpp.obj.ddi
-  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  OBJ_FILE = CMakeFiles\OOP_RPG.dir\entities\Enemy.cpp.obj
-  PREPROCESSED_OUTPUT_FILE = CMakeFiles\OOP_RPG.dir\entities\Enemy.cpp.obj.ddi.i
-
-build CMakeFiles/OOP_RPG.dir/entities/Enemy.cpp.obj: CXX_COMPILER__OOP_RPG_scanned_Debug C$:/Users/petru/Desktop/2024-2025/OOP-RPG/entities/Enemy.cpp | CMakeFiles/OOP_RPG.dir/entities/Enemy.cpp.obj.modmap || cmake_object_order_depends_target_OOP_RPG CMakeFiles/OOP_RPG.dir/CXX.dd
-  DEP_FILE = CMakeFiles\OOP_RPG.dir\entities\Enemy.cpp.obj.d
-  DYNDEP_MODULE_MAP_FILE = CMakeFiles\OOP_RPG.dir\entities\Enemy.cpp.obj.modmap
-  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\OOP_RPG.dir
-  OBJECT_FILE_DIR = CMakeFiles\OOP_RPG.dir\entities
-  dyndep = CMakeFiles/OOP_RPG.dir/CXX.dd
-
-build CMakeFiles/OOP_RPG.dir/entities/Boss.cpp.obj.ddi: CXX_SCAN__OOP_RPG_Debug C$:/Users/petru/Desktop/2024-2025/OOP-RPG/entities/Boss.cpp || cmake_object_order_depends_target_OOP_RPG
-  DEP_FILE = CMakeFiles\OOP_RPG.dir\entities\Boss.cpp.obj.ddi.d
-  DYNDEP_INTERMEDIATE_FILE = CMakeFiles\OOP_RPG.dir\entities\Boss.cpp.obj.ddi
-  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  OBJ_FILE = CMakeFiles\OOP_RPG.dir\entities\Boss.cpp.obj
-  PREPROCESSED_OUTPUT_FILE = CMakeFiles\OOP_RPG.dir\entities\Boss.cpp.obj.ddi.i
-
-build CMakeFiles/OOP_RPG.dir/entities/Boss.cpp.obj: CXX_COMPILER__OOP_RPG_scanned_Debug C$:/Users/petru/Desktop/2024-2025/OOP-RPG/entities/Boss.cpp | CMakeFiles/OOP_RPG.dir/entities/Boss.cpp.obj.modmap || cmake_object_order_depends_target_OOP_RPG CMakeFiles/OOP_RPG.dir/CXX.dd
-  DEP_FILE = CMakeFiles\OOP_RPG.dir\entities\Boss.cpp.obj.d
-  DYNDEP_MODULE_MAP_FILE = CMakeFiles\OOP_RPG.dir\entities\Boss.cpp.obj.modmap
-  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\OOP_RPG.dir
-  OBJECT_FILE_DIR = CMakeFiles\OOP_RPG.dir\entities
-  dyndep = CMakeFiles/OOP_RPG.dir/CXX.dd
-
-build CMakeFiles/OOP_RPG.dir/entities/NPC.cpp.obj.ddi: CXX_SCAN__OOP_RPG_Debug C$:/Users/petru/Desktop/2024-2025/OOP-RPG/entities/NPC.cpp || cmake_object_order_depends_target_OOP_RPG
-  DEP_FILE = CMakeFiles\OOP_RPG.dir\entities\NPC.cpp.obj.ddi.d
-  DYNDEP_INTERMEDIATE_FILE = CMakeFiles\OOP_RPG.dir\entities\NPC.cpp.obj.ddi
-  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  OBJ_FILE = CMakeFiles\OOP_RPG.dir\entities\NPC.cpp.obj
-  PREPROCESSED_OUTPUT_FILE = CMakeFiles\OOP_RPG.dir\entities\NPC.cpp.obj.ddi.i
-
-build CMakeFiles/OOP_RPG.dir/entities/NPC.cpp.obj: CXX_COMPILER__OOP_RPG_scanned_Debug C$:/Users/petru/Desktop/2024-2025/OOP-RPG/entities/NPC.cpp | CMakeFiles/OOP_RPG.dir/entities/NPC.cpp.obj.modmap || cmake_object_order_depends_target_OOP_RPG CMakeFiles/OOP_RPG.dir/CXX.dd
-  DEP_FILE = CMakeFiles\OOP_RPG.dir\entities\NPC.cpp.obj.d
-  DYNDEP_MODULE_MAP_FILE = CMakeFiles\OOP_RPG.dir\entities\NPC.cpp.obj.modmap
-  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\OOP_RPG.dir
-  OBJECT_FILE_DIR = CMakeFiles\OOP_RPG.dir\entities
-  dyndep = CMakeFiles/OOP_RPG.dir/CXX.dd
-
-build CMakeFiles/OOP_RPG.dir/combat/CombatSystem.cpp.obj.ddi: CXX_SCAN__OOP_RPG_Debug C$:/Users/petru/Desktop/2024-2025/OOP-RPG/combat/CombatSystem.cpp || cmake_object_order_depends_target_OOP_RPG
-  DEP_FILE = CMakeFiles\OOP_RPG.dir\combat\CombatSystem.cpp.obj.ddi.d
-  DYNDEP_INTERMEDIATE_FILE = CMakeFiles\OOP_RPG.dir\combat\CombatSystem.cpp.obj.ddi
-  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  OBJ_FILE = CMakeFiles\OOP_RPG.dir\combat\CombatSystem.cpp.obj
-  PREPROCESSED_OUTPUT_FILE = CMakeFiles\OOP_RPG.dir\combat\CombatSystem.cpp.obj.ddi.i
-
-build CMakeFiles/OOP_RPG.dir/combat/CombatSystem.cpp.obj: CXX_COMPILER__OOP_RPG_scanned_Debug C$:/Users/petru/Desktop/2024-2025/OOP-RPG/combat/CombatSystem.cpp | CMakeFiles/OOP_RPG.dir/combat/CombatSystem.cpp.obj.modmap || cmake_object_order_depends_target_OOP_RPG CMakeFiles/OOP_RPG.dir/CXX.dd
-  DEP_FILE = CMakeFiles\OOP_RPG.dir\combat\CombatSystem.cpp.obj.d
-  DYNDEP_MODULE_MAP_FILE = CMakeFiles\OOP_RPG.dir\combat\CombatSystem.cpp.obj.modmap
-  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\OOP_RPG.dir
-  OBJECT_FILE_DIR = CMakeFiles\OOP_RPG.dir\combat
-  dyndep = CMakeFiles/OOP_RPG.dir/CXX.dd
-
-build CMakeFiles/OOP_RPG.dir/items/Weapon.cpp.obj.ddi: CXX_SCAN__OOP_RPG_Debug C$:/Users/petru/Desktop/2024-2025/OOP-RPG/items/Weapon.cpp || cmake_object_order_depends_target_OOP_RPG
-  DEP_FILE = CMakeFiles\OOP_RPG.dir\items\Weapon.cpp.obj.ddi.d
-  DYNDEP_INTERMEDIATE_FILE = CMakeFiles\OOP_RPG.dir\items\Weapon.cpp.obj.ddi
-  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  OBJ_FILE = CMakeFiles\OOP_RPG.dir\items\Weapon.cpp.obj
-  PREPROCESSED_OUTPUT_FILE = CMakeFiles\OOP_RPG.dir\items\Weapon.cpp.obj.ddi.i
-
-build CMakeFiles/OOP_RPG.dir/items/Weapon.cpp.obj: CXX_COMPILER__OOP_RPG_scanned_Debug C$:/Users/petru/Desktop/2024-2025/OOP-RPG/items/Weapon.cpp | CMakeFiles/OOP_RPG.dir/items/Weapon.cpp.obj.modmap || cmake_object_order_depends_target_OOP_RPG CMakeFiles/OOP_RPG.dir/CXX.dd
-  DEP_FILE = CMakeFiles\OOP_RPG.dir\items\Weapon.cpp.obj.d
-  DYNDEP_MODULE_MAP_FILE = CMakeFiles\OOP_RPG.dir\items\Weapon.cpp.obj.modmap
-  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\OOP_RPG.dir
-  OBJECT_FILE_DIR = CMakeFiles\OOP_RPG.dir\items
-  dyndep = CMakeFiles/OOP_RPG.dir/CXX.dd
-
-build CMakeFiles/OOP_RPG.dir/items/Consumable.cpp.obj.ddi: CXX_SCAN__OOP_RPG_Debug C$:/Users/petru/Desktop/2024-2025/OOP-RPG/items/Consumable.cpp || cmake_object_order_depends_target_OOP_RPG
-  DEP_FILE = CMakeFiles\OOP_RPG.dir\items\Consumable.cpp.obj.ddi.d
-  DYNDEP_INTERMEDIATE_FILE = CMakeFiles\OOP_RPG.dir\items\Consumable.cpp.obj.ddi
-  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  OBJ_FILE = CMakeFiles\OOP_RPG.dir\items\Consumable.cpp.obj
-  PREPROCESSED_OUTPUT_FILE = CMakeFiles\OOP_RPG.dir\items\Consumable.cpp.obj.ddi.i
-
-build CMakeFiles/OOP_RPG.dir/items/Consumable.cpp.obj: CXX_COMPILER__OOP_RPG_scanned_Debug C$:/Users/petru/Desktop/2024-2025/OOP-RPG/items/Consumable.cpp | CMakeFiles/OOP_RPG.dir/items/Consumable.cpp.obj.modmap || cmake_object_order_depends_target_OOP_RPG CMakeFiles/OOP_RPG.dir/CXX.dd
-  DEP_FILE = CMakeFiles\OOP_RPG.dir\items\Consumable.cpp.obj.d
-  DYNDEP_MODULE_MAP_FILE = CMakeFiles\OOP_RPG.dir\items\Consumable.cpp.obj.modmap
-  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\OOP_RPG.dir
-  OBJECT_FILE_DIR = CMakeFiles\OOP_RPG.dir\items
-  dyndep = CMakeFiles/OOP_RPG.dir/CXX.dd
-
-build CMakeFiles/OOP_RPG.dir/systems/InputSystem.cpp.obj.ddi: CXX_SCAN__OOP_RPG_Debug C$:/Users/petru/Desktop/2024-2025/OOP-RPG/systems/InputSystem.cpp || cmake_object_order_depends_target_OOP_RPG
-  DEP_FILE = CMakeFiles\OOP_RPG.dir\systems\InputSystem.cpp.obj.ddi.d
-  DYNDEP_INTERMEDIATE_FILE = CMakeFiles\OOP_RPG.dir\systems\InputSystem.cpp.obj.ddi
-  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  OBJ_FILE = CMakeFiles\OOP_RPG.dir\systems\InputSystem.cpp.obj
-  PREPROCESSED_OUTPUT_FILE = CMakeFiles\OOP_RPG.dir\systems\InputSystem.cpp.obj.ddi.i
-
-build CMakeFiles/OOP_RPG.dir/systems/InputSystem.cpp.obj: CXX_COMPILER__OOP_RPG_scanned_Debug C$:/Users/petru/Desktop/2024-2025/OOP-RPG/systems/InputSystem.cpp | CMakeFiles/OOP_RPG.dir/systems/InputSystem.cpp.obj.modmap || cmake_object_order_depends_target_OOP_RPG CMakeFiles/OOP_RPG.dir/CXX.dd
-  DEP_FILE = CMakeFiles\OOP_RPG.dir\systems\InputSystem.cpp.obj.d
-  DYNDEP_MODULE_MAP_FILE = CMakeFiles\OOP_RPG.dir\systems\InputSystem.cpp.obj.modmap
-  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\OOP_RPG.dir
-  OBJECT_FILE_DIR = CMakeFiles\OOP_RPG.dir\systems
-  dyndep = CMakeFiles/OOP_RPG.dir/CXX.dd
-
-build CMakeFiles/OOP_RPG.dir/systems/DialogueSystem.cpp.obj.ddi: CXX_SCAN__OOP_RPG_Debug C$:/Users/petru/Desktop/2024-2025/OOP-RPG/systems/DialogueSystem.cpp || cmake_object_order_depends_target_OOP_RPG
-  DEP_FILE = CMakeFiles\OOP_RPG.dir\systems\DialogueSystem.cpp.obj.ddi.d
-  DYNDEP_INTERMEDIATE_FILE = CMakeFiles\OOP_RPG.dir\systems\DialogueSystem.cpp.obj.ddi
-  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  OBJ_FILE = CMakeFiles\OOP_RPG.dir\systems\DialogueSystem.cpp.obj
-  PREPROCESSED_OUTPUT_FILE = CMakeFiles\OOP_RPG.dir\systems\DialogueSystem.cpp.obj.ddi.i
-
-build CMakeFiles/OOP_RPG.dir/systems/DialogueSystem.cpp.obj: CXX_COMPILER__OOP_RPG_scanned_Debug C$:/Users/petru/Desktop/2024-2025/OOP-RPG/systems/DialogueSystem.cpp | CMakeFiles/OOP_RPG.dir/systems/DialogueSystem.cpp.obj.modmap || cmake_object_order_depends_target_OOP_RPG CMakeFiles/OOP_RPG.dir/CXX.dd
-  DEP_FILE = CMakeFiles\OOP_RPG.dir\systems\DialogueSystem.cpp.obj.d
-  DYNDEP_MODULE_MAP_FILE = CMakeFiles\OOP_RPG.dir\systems\DialogueSystem.cpp.obj.modmap
-  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\OOP_RPG.dir
-  OBJECT_FILE_DIR = CMakeFiles\OOP_RPG.dir\systems
-  dyndep = CMakeFiles/OOP_RPG.dir/CXX.dd
-
-build CMakeFiles/OOP_RPG.dir/systems/EventSystem.cpp.obj.ddi: CXX_SCAN__OOP_RPG_Debug C$:/Users/petru/Desktop/2024-2025/OOP-RPG/systems/EventSystem.cpp || cmake_object_order_depends_target_OOP_RPG
-  DEP_FILE = CMakeFiles\OOP_RPG.dir\systems\EventSystem.cpp.obj.ddi.d
-  DYNDEP_INTERMEDIATE_FILE = CMakeFiles\OOP_RPG.dir\systems\EventSystem.cpp.obj.ddi
-  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  OBJ_FILE = CMakeFiles\OOP_RPG.dir\systems\EventSystem.cpp.obj
-  PREPROCESSED_OUTPUT_FILE = CMakeFiles\OOP_RPG.dir\systems\EventSystem.cpp.obj.ddi.i
-
-build CMakeFiles/OOP_RPG.dir/systems/EventSystem.cpp.obj: CXX_COMPILER__OOP_RPG_scanned_Debug C$:/Users/petru/Desktop/2024-2025/OOP-RPG/systems/EventSystem.cpp | CMakeFiles/OOP_RPG.dir/systems/EventSystem.cpp.obj.modmap || cmake_object_order_depends_target_OOP_RPG CMakeFiles/OOP_RPG.dir/CXX.dd
-  DEP_FILE = CMakeFiles\OOP_RPG.dir\systems\EventSystem.cpp.obj.d
-  DYNDEP_MODULE_MAP_FILE = CMakeFiles\OOP_RPG.dir\systems\EventSystem.cpp.obj.modmap
-  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\OOP_RPG.dir
-  OBJECT_FILE_DIR = CMakeFiles\OOP_RPG.dir\systems
-  dyndep = CMakeFiles/OOP_RPG.dir/CXX.dd
-
-build CMakeFiles/OOP_RPG.dir/rendering/TileRenderer.cpp.obj.ddi: CXX_SCAN__OOP_RPG_Debug C$:/Users/petru/Desktop/2024-2025/OOP-RPG/rendering/TileRenderer.cpp || cmake_object_order_depends_target_OOP_RPG
-  DEP_FILE = CMakeFiles\OOP_RPG.dir\rendering\TileRenderer.cpp.obj.ddi.d
-  DYNDEP_INTERMEDIATE_FILE = CMakeFiles\OOP_RPG.dir\rendering\TileRenderer.cpp.obj.ddi
-  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  OBJ_FILE = CMakeFiles\OOP_RPG.dir\rendering\TileRenderer.cpp.obj
-  PREPROCESSED_OUTPUT_FILE = CMakeFiles\OOP_RPG.dir\rendering\TileRenderer.cpp.obj.ddi.i
-
-build CMakeFiles/OOP_RPG.dir/rendering/TileRenderer.cpp.obj: CXX_COMPILER__OOP_RPG_scanned_Debug C$:/Users/petru/Desktop/2024-2025/OOP-RPG/rendering/TileRenderer.cpp | CMakeFiles/OOP_RPG.dir/rendering/TileRenderer.cpp.obj.modmap || cmake_object_order_depends_target_OOP_RPG CMakeFiles/OOP_RPG.dir/CXX.dd
-  DEP_FILE = CMakeFiles\OOP_RPG.dir\rendering\TileRenderer.cpp.obj.d
-  DYNDEP_MODULE_MAP_FILE = CMakeFiles\OOP_RPG.dir\rendering\TileRenderer.cpp.obj.modmap
-  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\OOP_RPG.dir
-  OBJECT_FILE_DIR = CMakeFiles\OOP_RPG.dir\rendering
-  dyndep = CMakeFiles/OOP_RPG.dir/CXX.dd
-
-build CMakeFiles/OOP_RPG.dir/rendering/ConsoleRenderer.cpp.obj.ddi: CXX_SCAN__OOP_RPG_Debug C$:/Users/petru/Desktop/2024-2025/OOP-RPG/rendering/ConsoleRenderer.cpp || cmake_object_order_depends_target_OOP_RPG
-  DEP_FILE = CMakeFiles\OOP_RPG.dir\rendering\ConsoleRenderer.cpp.obj.ddi.d
-  DYNDEP_INTERMEDIATE_FILE = CMakeFiles\OOP_RPG.dir\rendering\ConsoleRenderer.cpp.obj.ddi
-  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  OBJ_FILE = CMakeFiles\OOP_RPG.dir\rendering\ConsoleRenderer.cpp.obj
-  PREPROCESSED_OUTPUT_FILE = CMakeFiles\OOP_RPG.dir\rendering\ConsoleRenderer.cpp.obj.ddi.i
-
-build CMakeFiles/OOP_RPG.dir/rendering/ConsoleRenderer.cpp.obj: CXX_COMPILER__OOP_RPG_scanned_Debug C$:/Users/petru/Desktop/2024-2025/OOP-RPG/rendering/ConsoleRenderer.cpp | CMakeFiles/OOP_RPG.dir/rendering/ConsoleRenderer.cpp.obj.modmap || cmake_object_order_depends_target_OOP_RPG CMakeFiles/OOP_RPG.dir/CXX.dd
-  DEP_FILE = CMakeFiles\OOP_RPG.dir\rendering\ConsoleRenderer.cpp.obj.d
-  DYNDEP_MODULE_MAP_FILE = CMakeFiles\OOP_RPG.dir\rendering\ConsoleRenderer.cpp.obj.modmap
-  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\OOP_RPG.dir
-  OBJECT_FILE_DIR = CMakeFiles\OOP_RPG.dir\rendering
+  TARGET_COMPILE_PDB = CMakeFiles\OOP_RPG.dir\
+  TARGET_PDB = OOP_RPG.pdb
   dyndep = CMakeFiles/OOP_RPG.dir/CXX.dd
 
 build CMakeFiles/OOP_RPG.dir/entities/Entity.cpp.obj.ddi: CXX_SCAN__OOP_RPG_Debug C$:/Users/petru/Desktop/2024-2025/OOP-RPG/entities/Entity.cpp || cmake_object_order_depends_target_OOP_RPG
   DEP_FILE = CMakeFiles\OOP_RPG.dir\entities\Entity.cpp.obj.ddi.d
   DYNDEP_INTERMEDIATE_FILE = CMakeFiles\OOP_RPG.dir\entities\Entity.cpp.obj.ddi
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  INCLUDES = -isystem C:/Users/petru/Documents/SFML-3.0.2/include
   OBJ_FILE = CMakeFiles\OOP_RPG.dir\entities\Entity.cpp.obj
   PREPROCESSED_OUTPUT_FILE = CMakeFiles\OOP_RPG.dir\entities\Entity.cpp.obj.ddi.i
 
@@ -300,14 +137,132 @@ build CMakeFiles/OOP_RPG.dir/entities/Entity.cpp.obj: CXX_COMPILER__OOP_RPG_scan
   DEP_FILE = CMakeFiles\OOP_RPG.dir\entities\Entity.cpp.obj.d
   DYNDEP_MODULE_MAP_FILE = CMakeFiles\OOP_RPG.dir\entities\Entity.cpp.obj.modmap
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  INCLUDES = -isystem C:/Users/petru/Documents/SFML-3.0.2/include
   OBJECT_DIR = CMakeFiles\OOP_RPG.dir
   OBJECT_FILE_DIR = CMakeFiles\OOP_RPG.dir\entities
+  TARGET_COMPILE_PDB = CMakeFiles\OOP_RPG.dir\
+  TARGET_PDB = OOP_RPG.pdb
+  dyndep = CMakeFiles/OOP_RPG.dir/CXX.dd
+
+build CMakeFiles/OOP_RPG.dir/entities/Player.cpp.obj.ddi: CXX_SCAN__OOP_RPG_Debug C$:/Users/petru/Desktop/2024-2025/OOP-RPG/entities/Player.cpp || cmake_object_order_depends_target_OOP_RPG
+  DEP_FILE = CMakeFiles\OOP_RPG.dir\entities\Player.cpp.obj.ddi.d
+  DYNDEP_INTERMEDIATE_FILE = CMakeFiles\OOP_RPG.dir\entities\Player.cpp.obj.ddi
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  INCLUDES = -isystem C:/Users/petru/Documents/SFML-3.0.2/include
+  OBJ_FILE = CMakeFiles\OOP_RPG.dir\entities\Player.cpp.obj
+  PREPROCESSED_OUTPUT_FILE = CMakeFiles\OOP_RPG.dir\entities\Player.cpp.obj.ddi.i
+
+build CMakeFiles/OOP_RPG.dir/entities/Player.cpp.obj: CXX_COMPILER__OOP_RPG_scanned_Debug C$:/Users/petru/Desktop/2024-2025/OOP-RPG/entities/Player.cpp | CMakeFiles/OOP_RPG.dir/entities/Player.cpp.obj.modmap || cmake_object_order_depends_target_OOP_RPG CMakeFiles/OOP_RPG.dir/CXX.dd
+  DEP_FILE = CMakeFiles\OOP_RPG.dir\entities\Player.cpp.obj.d
+  DYNDEP_MODULE_MAP_FILE = CMakeFiles\OOP_RPG.dir\entities\Player.cpp.obj.modmap
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  INCLUDES = -isystem C:/Users/petru/Documents/SFML-3.0.2/include
+  OBJECT_DIR = CMakeFiles\OOP_RPG.dir
+  OBJECT_FILE_DIR = CMakeFiles\OOP_RPG.dir\entities
+  TARGET_COMPILE_PDB = CMakeFiles\OOP_RPG.dir\
+  TARGET_PDB = OOP_RPG.pdb
+  dyndep = CMakeFiles/OOP_RPG.dir/CXX.dd
+
+build CMakeFiles/OOP_RPG.dir/entities/Enemy.cpp.obj.ddi: CXX_SCAN__OOP_RPG_Debug C$:/Users/petru/Desktop/2024-2025/OOP-RPG/entities/Enemy.cpp || cmake_object_order_depends_target_OOP_RPG
+  DEP_FILE = CMakeFiles\OOP_RPG.dir\entities\Enemy.cpp.obj.ddi.d
+  DYNDEP_INTERMEDIATE_FILE = CMakeFiles\OOP_RPG.dir\entities\Enemy.cpp.obj.ddi
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  INCLUDES = -isystem C:/Users/petru/Documents/SFML-3.0.2/include
+  OBJ_FILE = CMakeFiles\OOP_RPG.dir\entities\Enemy.cpp.obj
+  PREPROCESSED_OUTPUT_FILE = CMakeFiles\OOP_RPG.dir\entities\Enemy.cpp.obj.ddi.i
+
+build CMakeFiles/OOP_RPG.dir/entities/Enemy.cpp.obj: CXX_COMPILER__OOP_RPG_scanned_Debug C$:/Users/petru/Desktop/2024-2025/OOP-RPG/entities/Enemy.cpp | CMakeFiles/OOP_RPG.dir/entities/Enemy.cpp.obj.modmap || cmake_object_order_depends_target_OOP_RPG CMakeFiles/OOP_RPG.dir/CXX.dd
+  DEP_FILE = CMakeFiles\OOP_RPG.dir\entities\Enemy.cpp.obj.d
+  DYNDEP_MODULE_MAP_FILE = CMakeFiles\OOP_RPG.dir\entities\Enemy.cpp.obj.modmap
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  INCLUDES = -isystem C:/Users/petru/Documents/SFML-3.0.2/include
+  OBJECT_DIR = CMakeFiles\OOP_RPG.dir
+  OBJECT_FILE_DIR = CMakeFiles\OOP_RPG.dir\entities
+  TARGET_COMPILE_PDB = CMakeFiles\OOP_RPG.dir\
+  TARGET_PDB = OOP_RPG.pdb
+  dyndep = CMakeFiles/OOP_RPG.dir/CXX.dd
+
+build CMakeFiles/OOP_RPG.dir/entities/Boss.cpp.obj.ddi: CXX_SCAN__OOP_RPG_Debug C$:/Users/petru/Desktop/2024-2025/OOP-RPG/entities/Boss.cpp || cmake_object_order_depends_target_OOP_RPG
+  DEP_FILE = CMakeFiles\OOP_RPG.dir\entities\Boss.cpp.obj.ddi.d
+  DYNDEP_INTERMEDIATE_FILE = CMakeFiles\OOP_RPG.dir\entities\Boss.cpp.obj.ddi
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  INCLUDES = -isystem C:/Users/petru/Documents/SFML-3.0.2/include
+  OBJ_FILE = CMakeFiles\OOP_RPG.dir\entities\Boss.cpp.obj
+  PREPROCESSED_OUTPUT_FILE = CMakeFiles\OOP_RPG.dir\entities\Boss.cpp.obj.ddi.i
+
+build CMakeFiles/OOP_RPG.dir/entities/Boss.cpp.obj: CXX_COMPILER__OOP_RPG_scanned_Debug C$:/Users/petru/Desktop/2024-2025/OOP-RPG/entities/Boss.cpp | CMakeFiles/OOP_RPG.dir/entities/Boss.cpp.obj.modmap || cmake_object_order_depends_target_OOP_RPG CMakeFiles/OOP_RPG.dir/CXX.dd
+  DEP_FILE = CMakeFiles\OOP_RPG.dir\entities\Boss.cpp.obj.d
+  DYNDEP_MODULE_MAP_FILE = CMakeFiles\OOP_RPG.dir\entities\Boss.cpp.obj.modmap
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  INCLUDES = -isystem C:/Users/petru/Documents/SFML-3.0.2/include
+  OBJECT_DIR = CMakeFiles\OOP_RPG.dir
+  OBJECT_FILE_DIR = CMakeFiles\OOP_RPG.dir\entities
+  TARGET_COMPILE_PDB = CMakeFiles\OOP_RPG.dir\
+  TARGET_PDB = OOP_RPG.pdb
+  dyndep = CMakeFiles/OOP_RPG.dir/CXX.dd
+
+build CMakeFiles/OOP_RPG.dir/entities/NPC.cpp.obj.ddi: CXX_SCAN__OOP_RPG_Debug C$:/Users/petru/Desktop/2024-2025/OOP-RPG/entities/NPC.cpp || cmake_object_order_depends_target_OOP_RPG
+  DEP_FILE = CMakeFiles\OOP_RPG.dir\entities\NPC.cpp.obj.ddi.d
+  DYNDEP_INTERMEDIATE_FILE = CMakeFiles\OOP_RPG.dir\entities\NPC.cpp.obj.ddi
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  INCLUDES = -isystem C:/Users/petru/Documents/SFML-3.0.2/include
+  OBJ_FILE = CMakeFiles\OOP_RPG.dir\entities\NPC.cpp.obj
+  PREPROCESSED_OUTPUT_FILE = CMakeFiles\OOP_RPG.dir\entities\NPC.cpp.obj.ddi.i
+
+build CMakeFiles/OOP_RPG.dir/entities/NPC.cpp.obj: CXX_COMPILER__OOP_RPG_scanned_Debug C$:/Users/petru/Desktop/2024-2025/OOP-RPG/entities/NPC.cpp | CMakeFiles/OOP_RPG.dir/entities/NPC.cpp.obj.modmap || cmake_object_order_depends_target_OOP_RPG CMakeFiles/OOP_RPG.dir/CXX.dd
+  DEP_FILE = CMakeFiles\OOP_RPG.dir\entities\NPC.cpp.obj.d
+  DYNDEP_MODULE_MAP_FILE = CMakeFiles\OOP_RPG.dir\entities\NPC.cpp.obj.modmap
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  INCLUDES = -isystem C:/Users/petru/Documents/SFML-3.0.2/include
+  OBJECT_DIR = CMakeFiles\OOP_RPG.dir
+  OBJECT_FILE_DIR = CMakeFiles\OOP_RPG.dir\entities
+  TARGET_COMPILE_PDB = CMakeFiles\OOP_RPG.dir\
+  TARGET_PDB = OOP_RPG.pdb
+  dyndep = CMakeFiles/OOP_RPG.dir/CXX.dd
+
+build CMakeFiles/OOP_RPG.dir/combat/CombatSystem.cpp.obj.ddi: CXX_SCAN__OOP_RPG_Debug C$:/Users/petru/Desktop/2024-2025/OOP-RPG/combat/CombatSystem.cpp || cmake_object_order_depends_target_OOP_RPG
+  DEP_FILE = CMakeFiles\OOP_RPG.dir\combat\CombatSystem.cpp.obj.ddi.d
+  DYNDEP_INTERMEDIATE_FILE = CMakeFiles\OOP_RPG.dir\combat\CombatSystem.cpp.obj.ddi
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  INCLUDES = -isystem C:/Users/petru/Documents/SFML-3.0.2/include
+  OBJ_FILE = CMakeFiles\OOP_RPG.dir\combat\CombatSystem.cpp.obj
+  PREPROCESSED_OUTPUT_FILE = CMakeFiles\OOP_RPG.dir\combat\CombatSystem.cpp.obj.ddi.i
+
+build CMakeFiles/OOP_RPG.dir/combat/CombatSystem.cpp.obj: CXX_COMPILER__OOP_RPG_scanned_Debug C$:/Users/petru/Desktop/2024-2025/OOP-RPG/combat/CombatSystem.cpp | CMakeFiles/OOP_RPG.dir/combat/CombatSystem.cpp.obj.modmap || cmake_object_order_depends_target_OOP_RPG CMakeFiles/OOP_RPG.dir/CXX.dd
+  DEP_FILE = CMakeFiles\OOP_RPG.dir\combat\CombatSystem.cpp.obj.d
+  DYNDEP_MODULE_MAP_FILE = CMakeFiles\OOP_RPG.dir\combat\CombatSystem.cpp.obj.modmap
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  INCLUDES = -isystem C:/Users/petru/Documents/SFML-3.0.2/include
+  OBJECT_DIR = CMakeFiles\OOP_RPG.dir
+  OBJECT_FILE_DIR = CMakeFiles\OOP_RPG.dir\combat
+  TARGET_COMPILE_PDB = CMakeFiles\OOP_RPG.dir\
+  TARGET_PDB = OOP_RPG.pdb
+  dyndep = CMakeFiles/OOP_RPG.dir/CXX.dd
+
+build CMakeFiles/OOP_RPG.dir/items/Weapon.cpp.obj.ddi: CXX_SCAN__OOP_RPG_Debug C$:/Users/petru/Desktop/2024-2025/OOP-RPG/items/Weapon.cpp || cmake_object_order_depends_target_OOP_RPG
+  DEP_FILE = CMakeFiles\OOP_RPG.dir\items\Weapon.cpp.obj.ddi.d
+  DYNDEP_INTERMEDIATE_FILE = CMakeFiles\OOP_RPG.dir\items\Weapon.cpp.obj.ddi
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  INCLUDES = -isystem C:/Users/petru/Documents/SFML-3.0.2/include
+  OBJ_FILE = CMakeFiles\OOP_RPG.dir\items\Weapon.cpp.obj
+  PREPROCESSED_OUTPUT_FILE = CMakeFiles\OOP_RPG.dir\items\Weapon.cpp.obj.ddi.i
+
+build CMakeFiles/OOP_RPG.dir/items/Weapon.cpp.obj: CXX_COMPILER__OOP_RPG_scanned_Debug C$:/Users/petru/Desktop/2024-2025/OOP-RPG/items/Weapon.cpp | CMakeFiles/OOP_RPG.dir/items/Weapon.cpp.obj.modmap || cmake_object_order_depends_target_OOP_RPG CMakeFiles/OOP_RPG.dir/CXX.dd
+  DEP_FILE = CMakeFiles\OOP_RPG.dir\items\Weapon.cpp.obj.d
+  DYNDEP_MODULE_MAP_FILE = CMakeFiles\OOP_RPG.dir\items\Weapon.cpp.obj.modmap
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  INCLUDES = -isystem C:/Users/petru/Documents/SFML-3.0.2/include
+  OBJECT_DIR = CMakeFiles\OOP_RPG.dir
+  OBJECT_FILE_DIR = CMakeFiles\OOP_RPG.dir\items
+  TARGET_COMPILE_PDB = CMakeFiles\OOP_RPG.dir\
+  TARGET_PDB = OOP_RPG.pdb
   dyndep = CMakeFiles/OOP_RPG.dir/CXX.dd
 
 build CMakeFiles/OOP_RPG.dir/items/Armor.cpp.obj.ddi: CXX_SCAN__OOP_RPG_Debug C$:/Users/petru/Desktop/2024-2025/OOP-RPG/items/Armor.cpp || cmake_object_order_depends_target_OOP_RPG
   DEP_FILE = CMakeFiles\OOP_RPG.dir\items\Armor.cpp.obj.ddi.d
   DYNDEP_INTERMEDIATE_FILE = CMakeFiles\OOP_RPG.dir\items\Armor.cpp.obj.ddi
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  INCLUDES = -isystem C:/Users/petru/Documents/SFML-3.0.2/include
   OBJ_FILE = CMakeFiles\OOP_RPG.dir\items\Armor.cpp.obj
   PREPROCESSED_OUTPUT_FILE = CMakeFiles\OOP_RPG.dir\items\Armor.cpp.obj.ddi.i
 
@@ -315,11 +270,128 @@ build CMakeFiles/OOP_RPG.dir/items/Armor.cpp.obj: CXX_COMPILER__OOP_RPG_scanned_
   DEP_FILE = CMakeFiles\OOP_RPG.dir\items\Armor.cpp.obj.d
   DYNDEP_MODULE_MAP_FILE = CMakeFiles\OOP_RPG.dir\items\Armor.cpp.obj.modmap
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  INCLUDES = -isystem C:/Users/petru/Documents/SFML-3.0.2/include
   OBJECT_DIR = CMakeFiles\OOP_RPG.dir
   OBJECT_FILE_DIR = CMakeFiles\OOP_RPG.dir\items
+  TARGET_COMPILE_PDB = CMakeFiles\OOP_RPG.dir\
+  TARGET_PDB = OOP_RPG.pdb
   dyndep = CMakeFiles/OOP_RPG.dir/CXX.dd
 
-build CMakeFiles/OOP_RPG.dir/CXX.dd | C$:/Users/petru/Desktop/2024-2025/OOP-RPG/cmake-build-debug/CMakeFiles/OOP_RPG.dir/CXXModules.json CMakeFiles/OOP_RPG.dir/main.cpp.obj.modmap CMakeFiles/OOP_RPG.dir/core/Game.cpp.obj.modmap CMakeFiles/OOP_RPG.dir/core/World.cpp.obj.modmap CMakeFiles/OOP_RPG.dir/core/SaveSystem.cpp.obj.modmap CMakeFiles/OOP_RPG.dir/entities/Player.cpp.obj.modmap CMakeFiles/OOP_RPG.dir/entities/Enemy.cpp.obj.modmap CMakeFiles/OOP_RPG.dir/entities/Boss.cpp.obj.modmap CMakeFiles/OOP_RPG.dir/entities/NPC.cpp.obj.modmap CMakeFiles/OOP_RPG.dir/combat/CombatSystem.cpp.obj.modmap CMakeFiles/OOP_RPG.dir/items/Weapon.cpp.obj.modmap CMakeFiles/OOP_RPG.dir/items/Consumable.cpp.obj.modmap CMakeFiles/OOP_RPG.dir/systems/InputSystem.cpp.obj.modmap CMakeFiles/OOP_RPG.dir/systems/DialogueSystem.cpp.obj.modmap CMakeFiles/OOP_RPG.dir/systems/EventSystem.cpp.obj.modmap CMakeFiles/OOP_RPG.dir/rendering/TileRenderer.cpp.obj.modmap CMakeFiles/OOP_RPG.dir/rendering/ConsoleRenderer.cpp.obj.modmap CMakeFiles/OOP_RPG.dir/entities/Entity.cpp.obj.modmap CMakeFiles/OOP_RPG.dir/items/Armor.cpp.obj.modmap: CXX_DYNDEP__OOP_RPG_Debug CMakeFiles/OOP_RPG.dir/main.cpp.obj.ddi CMakeFiles/OOP_RPG.dir/core/Game.cpp.obj.ddi CMakeFiles/OOP_RPG.dir/core/World.cpp.obj.ddi CMakeFiles/OOP_RPG.dir/core/SaveSystem.cpp.obj.ddi CMakeFiles/OOP_RPG.dir/entities/Player.cpp.obj.ddi CMakeFiles/OOP_RPG.dir/entities/Enemy.cpp.obj.ddi CMakeFiles/OOP_RPG.dir/entities/Boss.cpp.obj.ddi CMakeFiles/OOP_RPG.dir/entities/NPC.cpp.obj.ddi CMakeFiles/OOP_RPG.dir/combat/CombatSystem.cpp.obj.ddi CMakeFiles/OOP_RPG.dir/items/Weapon.cpp.obj.ddi CMakeFiles/OOP_RPG.dir/items/Consumable.cpp.obj.ddi CMakeFiles/OOP_RPG.dir/systems/InputSystem.cpp.obj.ddi CMakeFiles/OOP_RPG.dir/systems/DialogueSystem.cpp.obj.ddi CMakeFiles/OOP_RPG.dir/systems/EventSystem.cpp.obj.ddi CMakeFiles/OOP_RPG.dir/rendering/TileRenderer.cpp.obj.ddi CMakeFiles/OOP_RPG.dir/rendering/ConsoleRenderer.cpp.obj.ddi CMakeFiles/OOP_RPG.dir/entities/Entity.cpp.obj.ddi CMakeFiles/OOP_RPG.dir/items/Armor.cpp.obj.ddi | C$:/Users/petru/Desktop/2024-2025/OOP-RPG/cmake-build-debug/CMakeFiles/OOP_RPG.dir/CXXDependInfo.json
+build CMakeFiles/OOP_RPG.dir/items/Consumable.cpp.obj.ddi: CXX_SCAN__OOP_RPG_Debug C$:/Users/petru/Desktop/2024-2025/OOP-RPG/items/Consumable.cpp || cmake_object_order_depends_target_OOP_RPG
+  DEP_FILE = CMakeFiles\OOP_RPG.dir\items\Consumable.cpp.obj.ddi.d
+  DYNDEP_INTERMEDIATE_FILE = CMakeFiles\OOP_RPG.dir\items\Consumable.cpp.obj.ddi
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  INCLUDES = -isystem C:/Users/petru/Documents/SFML-3.0.2/include
+  OBJ_FILE = CMakeFiles\OOP_RPG.dir\items\Consumable.cpp.obj
+  PREPROCESSED_OUTPUT_FILE = CMakeFiles\OOP_RPG.dir\items\Consumable.cpp.obj.ddi.i
+
+build CMakeFiles/OOP_RPG.dir/items/Consumable.cpp.obj: CXX_COMPILER__OOP_RPG_scanned_Debug C$:/Users/petru/Desktop/2024-2025/OOP-RPG/items/Consumable.cpp | CMakeFiles/OOP_RPG.dir/items/Consumable.cpp.obj.modmap || cmake_object_order_depends_target_OOP_RPG CMakeFiles/OOP_RPG.dir/CXX.dd
+  DEP_FILE = CMakeFiles\OOP_RPG.dir\items\Consumable.cpp.obj.d
+  DYNDEP_MODULE_MAP_FILE = CMakeFiles\OOP_RPG.dir\items\Consumable.cpp.obj.modmap
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  INCLUDES = -isystem C:/Users/petru/Documents/SFML-3.0.2/include
+  OBJECT_DIR = CMakeFiles\OOP_RPG.dir
+  OBJECT_FILE_DIR = CMakeFiles\OOP_RPG.dir\items
+  TARGET_COMPILE_PDB = CMakeFiles\OOP_RPG.dir\
+  TARGET_PDB = OOP_RPG.pdb
+  dyndep = CMakeFiles/OOP_RPG.dir/CXX.dd
+
+build CMakeFiles/OOP_RPG.dir/systems/InputSystem.cpp.obj.ddi: CXX_SCAN__OOP_RPG_Debug C$:/Users/petru/Desktop/2024-2025/OOP-RPG/systems/InputSystem.cpp || cmake_object_order_depends_target_OOP_RPG
+  DEP_FILE = CMakeFiles\OOP_RPG.dir\systems\InputSystem.cpp.obj.ddi.d
+  DYNDEP_INTERMEDIATE_FILE = CMakeFiles\OOP_RPG.dir\systems\InputSystem.cpp.obj.ddi
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  INCLUDES = -isystem C:/Users/petru/Documents/SFML-3.0.2/include
+  OBJ_FILE = CMakeFiles\OOP_RPG.dir\systems\InputSystem.cpp.obj
+  PREPROCESSED_OUTPUT_FILE = CMakeFiles\OOP_RPG.dir\systems\InputSystem.cpp.obj.ddi.i
+
+build CMakeFiles/OOP_RPG.dir/systems/InputSystem.cpp.obj: CXX_COMPILER__OOP_RPG_scanned_Debug C$:/Users/petru/Desktop/2024-2025/OOP-RPG/systems/InputSystem.cpp | CMakeFiles/OOP_RPG.dir/systems/InputSystem.cpp.obj.modmap || cmake_object_order_depends_target_OOP_RPG CMakeFiles/OOP_RPG.dir/CXX.dd
+  DEP_FILE = CMakeFiles\OOP_RPG.dir\systems\InputSystem.cpp.obj.d
+  DYNDEP_MODULE_MAP_FILE = CMakeFiles\OOP_RPG.dir\systems\InputSystem.cpp.obj.modmap
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  INCLUDES = -isystem C:/Users/petru/Documents/SFML-3.0.2/include
+  OBJECT_DIR = CMakeFiles\OOP_RPG.dir
+  OBJECT_FILE_DIR = CMakeFiles\OOP_RPG.dir\systems
+  TARGET_COMPILE_PDB = CMakeFiles\OOP_RPG.dir\
+  TARGET_PDB = OOP_RPG.pdb
+  dyndep = CMakeFiles/OOP_RPG.dir/CXX.dd
+
+build CMakeFiles/OOP_RPG.dir/systems/EventSystem.cpp.obj.ddi: CXX_SCAN__OOP_RPG_Debug C$:/Users/petru/Desktop/2024-2025/OOP-RPG/systems/EventSystem.cpp || cmake_object_order_depends_target_OOP_RPG
+  DEP_FILE = CMakeFiles\OOP_RPG.dir\systems\EventSystem.cpp.obj.ddi.d
+  DYNDEP_INTERMEDIATE_FILE = CMakeFiles\OOP_RPG.dir\systems\EventSystem.cpp.obj.ddi
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  INCLUDES = -isystem C:/Users/petru/Documents/SFML-3.0.2/include
+  OBJ_FILE = CMakeFiles\OOP_RPG.dir\systems\EventSystem.cpp.obj
+  PREPROCESSED_OUTPUT_FILE = CMakeFiles\OOP_RPG.dir\systems\EventSystem.cpp.obj.ddi.i
+
+build CMakeFiles/OOP_RPG.dir/systems/EventSystem.cpp.obj: CXX_COMPILER__OOP_RPG_scanned_Debug C$:/Users/petru/Desktop/2024-2025/OOP-RPG/systems/EventSystem.cpp | CMakeFiles/OOP_RPG.dir/systems/EventSystem.cpp.obj.modmap || cmake_object_order_depends_target_OOP_RPG CMakeFiles/OOP_RPG.dir/CXX.dd
+  DEP_FILE = CMakeFiles\OOP_RPG.dir\systems\EventSystem.cpp.obj.d
+  DYNDEP_MODULE_MAP_FILE = CMakeFiles\OOP_RPG.dir\systems\EventSystem.cpp.obj.modmap
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  INCLUDES = -isystem C:/Users/petru/Documents/SFML-3.0.2/include
+  OBJECT_DIR = CMakeFiles\OOP_RPG.dir
+  OBJECT_FILE_DIR = CMakeFiles\OOP_RPG.dir\systems
+  TARGET_COMPILE_PDB = CMakeFiles\OOP_RPG.dir\
+  TARGET_PDB = OOP_RPG.pdb
+  dyndep = CMakeFiles/OOP_RPG.dir/CXX.dd
+
+build CMakeFiles/OOP_RPG.dir/systems/DialogueSystem.cpp.obj.ddi: CXX_SCAN__OOP_RPG_Debug C$:/Users/petru/Desktop/2024-2025/OOP-RPG/systems/DialogueSystem.cpp || cmake_object_order_depends_target_OOP_RPG
+  DEP_FILE = CMakeFiles\OOP_RPG.dir\systems\DialogueSystem.cpp.obj.ddi.d
+  DYNDEP_INTERMEDIATE_FILE = CMakeFiles\OOP_RPG.dir\systems\DialogueSystem.cpp.obj.ddi
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  INCLUDES = -isystem C:/Users/petru/Documents/SFML-3.0.2/include
+  OBJ_FILE = CMakeFiles\OOP_RPG.dir\systems\DialogueSystem.cpp.obj
+  PREPROCESSED_OUTPUT_FILE = CMakeFiles\OOP_RPG.dir\systems\DialogueSystem.cpp.obj.ddi.i
+
+build CMakeFiles/OOP_RPG.dir/systems/DialogueSystem.cpp.obj: CXX_COMPILER__OOP_RPG_scanned_Debug C$:/Users/petru/Desktop/2024-2025/OOP-RPG/systems/DialogueSystem.cpp | CMakeFiles/OOP_RPG.dir/systems/DialogueSystem.cpp.obj.modmap || cmake_object_order_depends_target_OOP_RPG CMakeFiles/OOP_RPG.dir/CXX.dd
+  DEP_FILE = CMakeFiles\OOP_RPG.dir\systems\DialogueSystem.cpp.obj.d
+  DYNDEP_MODULE_MAP_FILE = CMakeFiles\OOP_RPG.dir\systems\DialogueSystem.cpp.obj.modmap
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  INCLUDES = -isystem C:/Users/petru/Documents/SFML-3.0.2/include
+  OBJECT_DIR = CMakeFiles\OOP_RPG.dir
+  OBJECT_FILE_DIR = CMakeFiles\OOP_RPG.dir\systems
+  TARGET_COMPILE_PDB = CMakeFiles\OOP_RPG.dir\
+  TARGET_PDB = OOP_RPG.pdb
+  dyndep = CMakeFiles/OOP_RPG.dir/CXX.dd
+
+build CMakeFiles/OOP_RPG.dir/rendering/ConsoleRenderer.cpp.obj.ddi: CXX_SCAN__OOP_RPG_Debug C$:/Users/petru/Desktop/2024-2025/OOP-RPG/rendering/ConsoleRenderer.cpp || cmake_object_order_depends_target_OOP_RPG
+  DEP_FILE = CMakeFiles\OOP_RPG.dir\rendering\ConsoleRenderer.cpp.obj.ddi.d
+  DYNDEP_INTERMEDIATE_FILE = CMakeFiles\OOP_RPG.dir\rendering\ConsoleRenderer.cpp.obj.ddi
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  INCLUDES = -isystem C:/Users/petru/Documents/SFML-3.0.2/include
+  OBJ_FILE = CMakeFiles\OOP_RPG.dir\rendering\ConsoleRenderer.cpp.obj
+  PREPROCESSED_OUTPUT_FILE = CMakeFiles\OOP_RPG.dir\rendering\ConsoleRenderer.cpp.obj.ddi.i
+
+build CMakeFiles/OOP_RPG.dir/rendering/ConsoleRenderer.cpp.obj: CXX_COMPILER__OOP_RPG_scanned_Debug C$:/Users/petru/Desktop/2024-2025/OOP-RPG/rendering/ConsoleRenderer.cpp | CMakeFiles/OOP_RPG.dir/rendering/ConsoleRenderer.cpp.obj.modmap || cmake_object_order_depends_target_OOP_RPG CMakeFiles/OOP_RPG.dir/CXX.dd
+  DEP_FILE = CMakeFiles\OOP_RPG.dir\rendering\ConsoleRenderer.cpp.obj.d
+  DYNDEP_MODULE_MAP_FILE = CMakeFiles\OOP_RPG.dir\rendering\ConsoleRenderer.cpp.obj.modmap
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  INCLUDES = -isystem C:/Users/petru/Documents/SFML-3.0.2/include
+  OBJECT_DIR = CMakeFiles\OOP_RPG.dir
+  OBJECT_FILE_DIR = CMakeFiles\OOP_RPG.dir\rendering
+  TARGET_COMPILE_PDB = CMakeFiles\OOP_RPG.dir\
+  TARGET_PDB = OOP_RPG.pdb
+  dyndep = CMakeFiles/OOP_RPG.dir/CXX.dd
+
+build CMakeFiles/OOP_RPG.dir/rendering/TileRenderer.cpp.obj.ddi: CXX_SCAN__OOP_RPG_Debug C$:/Users/petru/Desktop/2024-2025/OOP-RPG/rendering/TileRenderer.cpp || cmake_object_order_depends_target_OOP_RPG
+  DEP_FILE = CMakeFiles\OOP_RPG.dir\rendering\TileRenderer.cpp.obj.ddi.d
+  DYNDEP_INTERMEDIATE_FILE = CMakeFiles\OOP_RPG.dir\rendering\TileRenderer.cpp.obj.ddi
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  INCLUDES = -isystem C:/Users/petru/Documents/SFML-3.0.2/include
+  OBJ_FILE = CMakeFiles\OOP_RPG.dir\rendering\TileRenderer.cpp.obj
+  PREPROCESSED_OUTPUT_FILE = CMakeFiles\OOP_RPG.dir\rendering\TileRenderer.cpp.obj.ddi.i
+
+build CMakeFiles/OOP_RPG.dir/rendering/TileRenderer.cpp.obj: CXX_COMPILER__OOP_RPG_scanned_Debug C$:/Users/petru/Desktop/2024-2025/OOP-RPG/rendering/TileRenderer.cpp | CMakeFiles/OOP_RPG.dir/rendering/TileRenderer.cpp.obj.modmap || cmake_object_order_depends_target_OOP_RPG CMakeFiles/OOP_RPG.dir/CXX.dd
+  DEP_FILE = CMakeFiles\OOP_RPG.dir\rendering\TileRenderer.cpp.obj.d
+  DYNDEP_MODULE_MAP_FILE = CMakeFiles\OOP_RPG.dir\rendering\TileRenderer.cpp.obj.modmap
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  INCLUDES = -isystem C:/Users/petru/Documents/SFML-3.0.2/include
+  OBJECT_DIR = CMakeFiles\OOP_RPG.dir
+  OBJECT_FILE_DIR = CMakeFiles\OOP_RPG.dir\rendering
+  TARGET_COMPILE_PDB = CMakeFiles\OOP_RPG.dir\
+  TARGET_PDB = OOP_RPG.pdb
+  dyndep = CMakeFiles/OOP_RPG.dir/CXX.dd
+
+build CMakeFiles/OOP_RPG.dir/CXX.dd | C$:/Users/petru/Desktop/2024-2025/OOP-RPG/cmake-build-debug/CMakeFiles/OOP_RPG.dir/CXXModules.json CMakeFiles/OOP_RPG.dir/main.cpp.obj.modmap CMakeFiles/OOP_RPG.dir/core/Game.cpp.obj.modmap CMakeFiles/OOP_RPG.dir/core/World.cpp.obj.modmap CMakeFiles/OOP_RPG.dir/core/SaveSystem.cpp.obj.modmap CMakeFiles/OOP_RPG.dir/entities/Entity.cpp.obj.modmap CMakeFiles/OOP_RPG.dir/entities/Player.cpp.obj.modmap CMakeFiles/OOP_RPG.dir/entities/Enemy.cpp.obj.modmap CMakeFiles/OOP_RPG.dir/entities/Boss.cpp.obj.modmap CMakeFiles/OOP_RPG.dir/entities/NPC.cpp.obj.modmap CMakeFiles/OOP_RPG.dir/combat/CombatSystem.cpp.obj.modmap CMakeFiles/OOP_RPG.dir/items/Weapon.cpp.obj.modmap CMakeFiles/OOP_RPG.dir/items/Armor.cpp.obj.modmap CMakeFiles/OOP_RPG.dir/items/Consumable.cpp.obj.modmap CMakeFiles/OOP_RPG.dir/systems/InputSystem.cpp.obj.modmap CMakeFiles/OOP_RPG.dir/systems/EventSystem.cpp.obj.modmap CMakeFiles/OOP_RPG.dir/systems/DialogueSystem.cpp.obj.modmap CMakeFiles/OOP_RPG.dir/rendering/ConsoleRenderer.cpp.obj.modmap CMakeFiles/OOP_RPG.dir/rendering/TileRenderer.cpp.obj.modmap: CXX_DYNDEP__OOP_RPG_Debug CMakeFiles/OOP_RPG.dir/main.cpp.obj.ddi CMakeFiles/OOP_RPG.dir/core/Game.cpp.obj.ddi CMakeFiles/OOP_RPG.dir/core/World.cpp.obj.ddi CMakeFiles/OOP_RPG.dir/core/SaveSystem.cpp.obj.ddi CMakeFiles/OOP_RPG.dir/entities/Entity.cpp.obj.ddi CMakeFiles/OOP_RPG.dir/entities/Player.cpp.obj.ddi CMakeFiles/OOP_RPG.dir/entities/Enemy.cpp.obj.ddi CMakeFiles/OOP_RPG.dir/entities/Boss.cpp.obj.ddi CMakeFiles/OOP_RPG.dir/entities/NPC.cpp.obj.ddi CMakeFiles/OOP_RPG.dir/combat/CombatSystem.cpp.obj.ddi CMakeFiles/OOP_RPG.dir/items/Weapon.cpp.obj.ddi CMakeFiles/OOP_RPG.dir/items/Armor.cpp.obj.ddi CMakeFiles/OOP_RPG.dir/items/Consumable.cpp.obj.ddi CMakeFiles/OOP_RPG.dir/systems/InputSystem.cpp.obj.ddi CMakeFiles/OOP_RPG.dir/systems/EventSystem.cpp.obj.ddi CMakeFiles/OOP_RPG.dir/systems/DialogueSystem.cpp.obj.ddi CMakeFiles/OOP_RPG.dir/rendering/ConsoleRenderer.cpp.obj.ddi CMakeFiles/OOP_RPG.dir/rendering/TileRenderer.cpp.obj.ddi | C$:/Users/petru/Desktop/2024-2025/OOP-RPG/cmake-build-debug/CMakeFiles/OOP_RPG.dir/CXXDependInfo.json
 
 
 # =============================================================================
@@ -329,15 +401,16 @@ build CMakeFiles/OOP_RPG.dir/CXX.dd | C$:/Users/petru/Desktop/2024-2025/OOP-RPG/
 #############################################
 # Link the executable OOP_RPG.exe
 
-build OOP_RPG.exe: CXX_EXECUTABLE_LINKER__OOP_RPG_Debug CMakeFiles/OOP_RPG.dir/main.cpp.obj CMakeFiles/OOP_RPG.dir/core/Game.cpp.obj CMakeFiles/OOP_RPG.dir/core/World.cpp.obj CMakeFiles/OOP_RPG.dir/core/SaveSystem.cpp.obj CMakeFiles/OOP_RPG.dir/entities/Player.cpp.obj CMakeFiles/OOP_RPG.dir/entities/Enemy.cpp.obj CMakeFiles/OOP_RPG.dir/entities/Boss.cpp.obj CMakeFiles/OOP_RPG.dir/entities/NPC.cpp.obj CMakeFiles/OOP_RPG.dir/combat/CombatSystem.cpp.obj CMakeFiles/OOP_RPG.dir/items/Weapon.cpp.obj CMakeFiles/OOP_RPG.dir/items/Consumable.cpp.obj CMakeFiles/OOP_RPG.dir/systems/InputSystem.cpp.obj CMakeFiles/OOP_RPG.dir/systems/DialogueSystem.cpp.obj CMakeFiles/OOP_RPG.dir/systems/EventSystem.cpp.obj CMakeFiles/OOP_RPG.dir/rendering/TileRenderer.cpp.obj CMakeFiles/OOP_RPG.dir/rendering/ConsoleRenderer.cpp.obj CMakeFiles/OOP_RPG.dir/entities/Entity.cpp.obj CMakeFiles/OOP_RPG.dir/items/Armor.cpp.obj
+build OOP_RPG.exe: CXX_EXECUTABLE_LINKER__OOP_RPG_Debug CMakeFiles/OOP_RPG.dir/main.cpp.obj CMakeFiles/OOP_RPG.dir/core/Game.cpp.obj CMakeFiles/OOP_RPG.dir/core/World.cpp.obj CMakeFiles/OOP_RPG.dir/core/SaveSystem.cpp.obj CMakeFiles/OOP_RPG.dir/entities/Entity.cpp.obj CMakeFiles/OOP_RPG.dir/entities/Player.cpp.obj CMakeFiles/OOP_RPG.dir/entities/Enemy.cpp.obj CMakeFiles/OOP_RPG.dir/entities/Boss.cpp.obj CMakeFiles/OOP_RPG.dir/entities/NPC.cpp.obj CMakeFiles/OOP_RPG.dir/combat/CombatSystem.cpp.obj CMakeFiles/OOP_RPG.dir/items/Weapon.cpp.obj CMakeFiles/OOP_RPG.dir/items/Armor.cpp.obj CMakeFiles/OOP_RPG.dir/items/Consumable.cpp.obj CMakeFiles/OOP_RPG.dir/systems/InputSystem.cpp.obj CMakeFiles/OOP_RPG.dir/systems/EventSystem.cpp.obj CMakeFiles/OOP_RPG.dir/systems/DialogueSystem.cpp.obj CMakeFiles/OOP_RPG.dir/rendering/ConsoleRenderer.cpp.obj CMakeFiles/OOP_RPG.dir/rendering/TileRenderer.cpp.obj | C$:/Users/petru/Documents/SFML-3.0.2/lib/libsfml-graphics-d.a C$:/Users/petru/Documents/SFML-3.0.2/lib/libsfml-window-d.a C$:/Users/petru/Documents/SFML-3.0.2/lib/libsfml-audio-d.a C$:/Users/petru/Documents/SFML-3.0.2/lib/libsfml-system-d.a
   FLAGS = -g
-  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  LINK_LIBRARIES = C:/Users/petru/Documents/SFML-3.0.2/lib/libsfml-graphics-d.a  C:/Users/petru/Documents/SFML-3.0.2/lib/libsfml-window-d.a  C:/Users/petru/Documents/SFML-3.0.2/lib/libsfml-audio-d.a  C:/Users/petru/Documents/SFML-3.0.2/lib/libsfml-system-d.a  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\OOP_RPG.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
+  TARGET_COMPILE_PDB = CMakeFiles\OOP_RPG.dir\
   TARGET_FILE = OOP_RPG.exe
   TARGET_IMPLIB = libOOP_RPG.dll.a
-  TARGET_PDB = OOP_RPG.exe.dbg
+  TARGET_PDB = OOP_RPG.pdb
 
 
 #############################################
@@ -391,14 +464,14 @@ build all: phony OOP_RPG.exe
 #############################################
 # Re-run CMake if any of its inputs changed.
 
-build build.ninja: RERUN_CMAKE | C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeCInformation.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeCXXInformation.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeCommonLanguageInclude.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeGenericSystem.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeInitializeConfigs.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeLanguageInformation.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeRCInformation.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeSystemSpecificInformation.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeSystemSpecificInitialize.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Compiler/CMakeCommonCompilerMacros.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Compiler/GNU-C.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Compiler/GNU-CXX.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Compiler/GNU.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Internal/CMakeCLinkerInformation.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Internal/CMakeCXXLinkerInformation.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Internal/CMakeCommonLinkerInformation.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Linker/GNU-C.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Linker/GNU-CXX.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Linker/GNU.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/Linker/GNU.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/Linker/Windows-GNU-C.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/Linker/Windows-GNU-CXX.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/Linker/Windows-GNU.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/Windows-GNU-C-ABI.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/Windows-GNU-C.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/Windows-GNU-CXX-ABI.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/Windows-GNU-CXX.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/Windows-GNU.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/Windows-Initialize.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/Windows-windres.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/Windows.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/WindowsPaths.cmake C$:/Users/petru/Desktop/2024-2025/OOP-RPG/CMakeLists.txt CMakeCache.txt CMakeFiles/3.31.6/CMakeCCompiler.cmake CMakeFiles/3.31.6/CMakeCXXCompiler.cmake CMakeFiles/3.31.6/CMakeRCCompiler.cmake CMakeFiles/3.31.6/CMakeSystem.cmake
+build build.ninja: RERUN_CMAKE | C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeCCompiler.cmake.in C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeCCompilerABI.c C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeCInformation.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeCXXCompiler.cmake.in C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeCXXCompilerABI.cpp C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeCXXInformation.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeCommonLanguageInclude.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeCompilerIdDetection.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeDetermineCCompiler.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeDetermineCXXCompiler.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeDetermineCompiler.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeDetermineCompilerABI.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeDetermineCompilerId.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeDetermineCompilerSupport.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeDetermineRCCompiler.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeDetermineSystem.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeFindBinUtils.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeGenericSystem.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeInitializeConfigs.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeLanguageInformation.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeParseImplicitIncludeInfo.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeParseImplicitLinkInfo.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeParseLibraryArchitecture.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeRCCompiler.cmake.in C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeRCInformation.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeSystem.cmake.in C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeSystemSpecificInformation.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeSystemSpecificInitialize.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeTestCCompiler.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeTestCXXCompiler.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeTestCompilerCommon.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeTestRCCompiler.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Compiler/ADSP-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Compiler/ARMCC-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Compiler/ARMClang-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Compiler/AppleClang-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Compiler/Borland-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Compiler/Bruce-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Compiler/CMakeCommonCompilerMacros.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Compiler/Clang-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Compiler/Clang-DetermineCompilerInternal.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Compiler/Compaq-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Compiler/Compaq-CXX-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Compiler/Cray-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Compiler/CrayClang-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Compiler/Embarcadero-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Compiler/Fujitsu-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Compiler/FujitsuClang-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Compiler/GHS-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Compiler/GNU-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Compiler/GNU-C.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Compiler/GNU-CXX-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Compiler/GNU-CXX.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Compiler/GNU-FindBinUtils.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Compiler/GNU.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Compiler/HP-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Compiler/HP-CXX-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Compiler/IAR-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Compiler/IBMCPP-C-DetermineVersionInternal.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Compiler/IBMCPP-CXX-DetermineVersionInternal.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Compiler/IBMClang-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Compiler/IBMClang-CXX-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Compiler/Intel-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Compiler/IntelLLVM-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Compiler/LCC-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Compiler/LCC-CXX-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Compiler/MSVC-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Compiler/NVHPC-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Compiler/NVIDIA-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Compiler/OpenWatcom-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Compiler/OrangeC-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Compiler/PGI-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Compiler/PathScale-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Compiler/SCO-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Compiler/SDCC-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Compiler/SunPro-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Compiler/SunPro-CXX-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Compiler/TI-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Compiler/TIClang-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Compiler/Tasking-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Compiler/TinyCC-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Compiler/VisualAge-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Compiler/VisualAge-CXX-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Compiler/Watcom-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Compiler/XL-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Compiler/XL-CXX-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Compiler/XLClang-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Compiler/XLClang-CXX-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Compiler/zOS-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Compiler/zOS-CXX-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Internal/CMakeCLinkerInformation.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Internal/CMakeCXXLinkerInformation.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Internal/CMakeCommonLinkerInformation.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Internal/CMakeDetermineLinkerId.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Internal/FeatureTesting.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/Linker/GNU.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/Linker/Windows-C.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/Linker/Windows-CXX.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/Linker/Windows-GNU-C.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/Linker/Windows-GNU-CXX.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/Linker/Windows-GNU.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/Windows-Determine-CXX.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/Windows-GNU-C-ABI.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/Windows-GNU-C.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/Windows-GNU-CXX-ABI.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/Windows-GNU-CXX.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/Windows-GNU.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/Windows-Initialize.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/Windows-windres.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/Windows.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/WindowsPaths.cmake C$:/Users/petru/Desktop/2024-2025/OOP-RPG/CMakeLists.txt C$:/Users/petru/Documents/SFML-3.0.2/lib/cmake/SFML/SFMLAudioSharedTargets-debug.cmake C$:/Users/petru/Documents/SFML-3.0.2/lib/cmake/SFML/SFMLAudioSharedTargets-release.cmake C$:/Users/petru/Documents/SFML-3.0.2/lib/cmake/SFML/SFMLAudioSharedTargets.cmake C$:/Users/petru/Documents/SFML-3.0.2/lib/cmake/SFML/SFMLConfig.cmake C$:/Users/petru/Documents/SFML-3.0.2/lib/cmake/SFML/SFMLConfigVersion.cmake C$:/Users/petru/Documents/SFML-3.0.2/lib/cmake/SFML/SFMLGraphicsSharedTargets-debug.cmake C$:/Users/petru/Documents/SFML-3.0.2/lib/cmake/SFML/SFMLGraphicsSharedTargets-release.cmake C$:/Users/petru/Documents/SFML-3.0.2/lib/cmake/SFML/SFMLGraphicsSharedTargets.cmake C$:/Users/petru/Documents/SFML-3.0.2/lib/cmake/SFML/SFMLSystemSharedTargets-debug.cmake C$:/Users/petru/Documents/SFML-3.0.2/lib/cmake/SFML/SFMLSystemSharedTargets-release.cmake C$:/Users/petru/Documents/SFML-3.0.2/lib/cmake/SFML/SFMLSystemSharedTargets.cmake C$:/Users/petru/Documents/SFML-3.0.2/lib/cmake/SFML/SFMLWindowSharedTargets-debug.cmake C$:/Users/petru/Documents/SFML-3.0.2/lib/cmake/SFML/SFMLWindowSharedTargets-release.cmake C$:/Users/petru/Documents/SFML-3.0.2/lib/cmake/SFML/SFMLWindowSharedTargets.cmake CMakeCache.txt CMakeFiles/3.31.6/CMakeCCompiler.cmake CMakeFiles/3.31.6/CMakeCXXCompiler.cmake CMakeFiles/3.31.6/CMakeRCCompiler.cmake CMakeFiles/3.31.6/CMakeSystem.cmake
   pool = console
 
 
 #############################################
 # A missing CMake input file is not an error.
 
-build C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeCInformation.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeCXXInformation.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeCommonLanguageInclude.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeGenericSystem.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeInitializeConfigs.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeLanguageInformation.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeRCInformation.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeSystemSpecificInformation.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeSystemSpecificInitialize.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Compiler/CMakeCommonCompilerMacros.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Compiler/GNU-C.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Compiler/GNU-CXX.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Compiler/GNU.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Internal/CMakeCLinkerInformation.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Internal/CMakeCXXLinkerInformation.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Internal/CMakeCommonLinkerInformation.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Linker/GNU-C.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Linker/GNU-CXX.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Linker/GNU.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/Linker/GNU.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/Linker/Windows-GNU-C.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/Linker/Windows-GNU-CXX.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/Linker/Windows-GNU.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/Windows-GNU-C-ABI.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/Windows-GNU-C.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/Windows-GNU-CXX-ABI.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/Windows-GNU-CXX.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/Windows-GNU.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/Windows-Initialize.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/Windows-windres.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/Windows.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/WindowsPaths.cmake C$:/Users/petru/Desktop/2024-2025/OOP-RPG/CMakeLists.txt CMakeCache.txt CMakeFiles/3.31.6/CMakeCCompiler.cmake CMakeFiles/3.31.6/CMakeCXXCompiler.cmake CMakeFiles/3.31.6/CMakeRCCompiler.cmake CMakeFiles/3.31.6/CMakeSystem.cmake: phony
+build C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeCCompiler.cmake.in C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeCCompilerABI.c C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeCInformation.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeCXXCompiler.cmake.in C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeCXXCompilerABI.cpp C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeCXXInformation.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeCommonLanguageInclude.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeCompilerIdDetection.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeDetermineCCompiler.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeDetermineCXXCompiler.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeDetermineCompiler.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeDetermineCompilerABI.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeDetermineCompilerId.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeDetermineCompilerSupport.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeDetermineRCCompiler.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeDetermineSystem.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeFindBinUtils.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeGenericSystem.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeInitializeConfigs.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeLanguageInformation.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeParseImplicitIncludeInfo.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeParseImplicitLinkInfo.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeParseLibraryArchitecture.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeRCCompiler.cmake.in C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeRCInformation.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeSystem.cmake.in C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeSystemSpecificInformation.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeSystemSpecificInitialize.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeTestCCompiler.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeTestCXXCompiler.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeTestCompilerCommon.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeTestRCCompiler.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Compiler/ADSP-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Compiler/ARMCC-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Compiler/ARMClang-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Compiler/AppleClang-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Compiler/Borland-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Compiler/Bruce-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Compiler/CMakeCommonCompilerMacros.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Compiler/Clang-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Compiler/Clang-DetermineCompilerInternal.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Compiler/Compaq-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Compiler/Compaq-CXX-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Compiler/Cray-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Compiler/CrayClang-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Compiler/Embarcadero-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Compiler/Fujitsu-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Compiler/FujitsuClang-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Compiler/GHS-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Compiler/GNU-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Compiler/GNU-C.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Compiler/GNU-CXX-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Compiler/GNU-CXX.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Compiler/GNU-FindBinUtils.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Compiler/GNU.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Compiler/HP-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Compiler/HP-CXX-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Compiler/IAR-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Compiler/IBMCPP-C-DetermineVersionInternal.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Compiler/IBMCPP-CXX-DetermineVersionInternal.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Compiler/IBMClang-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Compiler/IBMClang-CXX-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Compiler/Intel-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Compiler/IntelLLVM-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Compiler/LCC-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Compiler/LCC-CXX-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Compiler/MSVC-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Compiler/NVHPC-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Compiler/NVIDIA-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Compiler/OpenWatcom-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Compiler/OrangeC-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Compiler/PGI-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Compiler/PathScale-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Compiler/SCO-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Compiler/SDCC-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Compiler/SunPro-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Compiler/SunPro-CXX-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Compiler/TI-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Compiler/TIClang-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Compiler/Tasking-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Compiler/TinyCC-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Compiler/VisualAge-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Compiler/VisualAge-CXX-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Compiler/Watcom-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Compiler/XL-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Compiler/XL-CXX-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Compiler/XLClang-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Compiler/XLClang-CXX-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Compiler/zOS-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Compiler/zOS-CXX-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Internal/CMakeCLinkerInformation.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Internal/CMakeCXXLinkerInformation.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Internal/CMakeCommonLinkerInformation.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Internal/CMakeDetermineLinkerId.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Internal/FeatureTesting.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/Linker/GNU.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/Linker/Windows-C.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/Linker/Windows-CXX.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/Linker/Windows-GNU-C.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/Linker/Windows-GNU-CXX.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/Linker/Windows-GNU.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/Windows-Determine-CXX.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/Windows-GNU-C-ABI.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/Windows-GNU-C.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/Windows-GNU-CXX-ABI.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/Windows-GNU-CXX.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/Windows-GNU.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/Windows-Initialize.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/Windows-windres.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/Windows.cmake C$:/Program$ Files/JetBrains/Clion$ 25.1.2/CLion$ 2025.1.2/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/WindowsPaths.cmake C$:/Users/petru/Desktop/2024-2025/OOP-RPG/CMakeLists.txt C$:/Users/petru/Documents/SFML-3.0.2/lib/cmake/SFML/SFMLAudioSharedTargets-debug.cmake C$:/Users/petru/Documents/SFML-3.0.2/lib/cmake/SFML/SFMLAudioSharedTargets-release.cmake C$:/Users/petru/Documents/SFML-3.0.2/lib/cmake/SFML/SFMLAudioSharedTargets.cmake C$:/Users/petru/Documents/SFML-3.0.2/lib/cmake/SFML/SFMLConfig.cmake C$:/Users/petru/Documents/SFML-3.0.2/lib/cmake/SFML/SFMLConfigVersion.cmake C$:/Users/petru/Documents/SFML-3.0.2/lib/cmake/SFML/SFMLGraphicsSharedTargets-debug.cmake C$:/Users/petru/Documents/SFML-3.0.2/lib/cmake/SFML/SFMLGraphicsSharedTargets-release.cmake C$:/Users/petru/Documents/SFML-3.0.2/lib/cmake/SFML/SFMLGraphicsSharedTargets.cmake C$:/Users/petru/Documents/SFML-3.0.2/lib/cmake/SFML/SFMLSystemSharedTargets-debug.cmake C$:/Users/petru/Documents/SFML-3.0.2/lib/cmake/SFML/SFMLSystemSharedTargets-release.cmake C$:/Users/petru/Documents/SFML-3.0.2/lib/cmake/SFML/SFMLSystemSharedTargets.cmake C$:/Users/petru/Documents/SFML-3.0.2/lib/cmake/SFML/SFMLWindowSharedTargets-debug.cmake C$:/Users/petru/Documents/SFML-3.0.2/lib/cmake/SFML/SFMLWindowSharedTargets-release.cmake C$:/Users/petru/Documents/SFML-3.0.2/lib/cmake/SFML/SFMLWindowSharedTargets.cmake CMakeCache.txt CMakeFiles/3.31.6/CMakeCCompiler.cmake CMakeFiles/3.31.6/CMakeCXXCompiler.cmake CMakeFiles/3.31.6/CMakeRCCompiler.cmake CMakeFiles/3.31.6/CMakeSystem.cmake: phony
 
 
 #############################################
